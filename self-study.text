@@ -1,0 +1,11 @@
+  What is the purpose of using sessions?
+  The purpose of a session is to keep your data persisted on the page without having to contantly logging in 
+
+  What does bcrypt do to help us store passwords in a secure manner.
+  bcrypt secures it by converting your password to a algorithmic code.
+
+  What does bcrypt do to slow down attackers?
+  To help slow attackers down bcrypt will run a re-hash multiple times on the password to make it much more complicated
+
+  What are the three parts of the JSON Web Token?
+ secret, payload, options
